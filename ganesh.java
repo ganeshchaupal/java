@@ -1,6 +1,6 @@
 public class ganesh {
 
     public static void main(String[] args) {
-        System.out.println("Ganesh ");
+        System.out.println(" Suraj Kumar ");
     }
 }
